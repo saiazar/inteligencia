@@ -1,0 +1,2 @@
+# inteligencia
+pequeña inteligencia artificial.
